@@ -1,0 +1,14 @@
+{
+  "healthy": {
+    "recommendation": "Folha saudável. Manter monitoramento e práticas de manejo integrado (rotação, adubação equilibrada)."
+  },
+  "diseased": {
+    "recommendation": "Aplicar controle biológico: produtos à base de Bacillus subtilis ou Trichoderma spp.; estimular inimigos naturais e evitar pulverizações químicas desnecessárias."
+  },
+  "possible_fungal": {
+    "recommendation": "Suspeita de fungo. Recomenda-se aplicar biofungicidas (Trichoderma spp., Bacillus subtilis) e melhorar ventilação/espacamento das plantas."
+  },
+  "possible_nutrient_deficiency": {
+    "recommendation": "Suspeita de deficiência nutricional. Fazer análise foliar/solo e aplicar corretivos orgânicos ou biofertilizantes conforme recomendação técnica."
+  }
+}
